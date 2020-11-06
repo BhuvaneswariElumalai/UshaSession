@@ -4,7 +4,7 @@ public class AccessModifiers {
 
 	
 		//no access modifier
-		  protected int speedin;
+		  protected int speedi;
 		
 	
 
